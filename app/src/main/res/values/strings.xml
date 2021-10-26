@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sai`s Tic-Tac-Toe</string>
+    <string name="Heading">Welcome 2 TIC-TAC-TOE</string>
+    <string name="grid">Our main grid</string>
+
+    <string name="imageview0">0,0</string>
+    <string name="imageview1">0,1</string>
+    <string name="imageview2">0,2</string>
+    <string name="imageview3">1,0</string>
+    <string name="imageview4">1,1</string>
+    <string name="imageview5">1,2</string>
+    <string name="imageview6">2,0</string>
+    <string name="imageview7">2,1</string>
+    <string name="imageview8">2,2</string>
+
+    <string name="Start">Tap To Play</string>
+    <string name="start">X`s Turn: Tap To Play</string>
+
+</resources>
